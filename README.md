@@ -166,5 +166,4 @@ graph TD
 ## 👤 Credits & Author
 
 - Developed by **CHITTURI DOLA SATYA SIVA SHANKAR BABA** (`chdsssbaba`)
-- Contact: `chdsssbaba5@gmail.com`
 - GitHub: [@chdsssbaba](https://github.com/chdsssbaba)
